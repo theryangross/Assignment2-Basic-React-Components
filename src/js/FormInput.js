@@ -32,7 +32,7 @@ const FormInput = (props) => {
             },
             props.itemtwo),
 
-            React.createElement('button', 
+            React.createElement('input', 
             {
                 className: "btn btn-primary",
                 type: "submit",
